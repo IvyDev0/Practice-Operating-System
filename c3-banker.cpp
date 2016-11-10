@@ -1,5 +1,4 @@
 //
-//  main.cpp
 //  banker
 //
 //  Created by Yiyi Deng on 11/2/16.
