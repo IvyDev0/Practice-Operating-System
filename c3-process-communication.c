@@ -48,7 +48,6 @@ void SERVER()
 	exit(0);
 }
 
-
 int main()
 {
   while ((i=fork())==-1);
