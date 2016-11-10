@@ -1,5 +1,4 @@
 //
-//  main.c
 //  jincheng
 //
 //  Created by Yiyi Deng on 10/24/16.
@@ -12,7 +11,6 @@
 #include <stdlib.h>
 
 #define getpch(type) (type*)malloc(sizeof(type))
-
 
 struct pcb { /* 定义进程控制块PCB */
     char state;
